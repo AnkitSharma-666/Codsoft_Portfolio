@@ -295,3 +295,6 @@ form .submit:hover{
     background-color: #6493f9;
     cursor: pointer;
 }
+.icons a{
+    color:white;
+}
